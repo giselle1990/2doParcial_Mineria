@@ -12,6 +12,9 @@ El parcial también se presenta en una página web dinámica, donde se explica e
 
 https://2doparcialmineria.netlify.app/ 
 
+## Google Colab para clonar e ir probando el codigo
+https://colab.research.google.com/drive/1ihXhVS9NT5zThGrFMR_C9ZvPNBRLi0UT?usp=sharing
+
 La web incluye:
 
 - Objetivo del MVP.
