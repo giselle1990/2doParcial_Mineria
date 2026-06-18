@@ -10,9 +10,7 @@ Este repositorio contiene el desarrollo del **MVP técnico del Segundo Parcial d
 
 El parcial también se presenta en una página web dinámica, donde se explica el proyecto de forma visual y ordenada punto por punto.
 
-**Link a la web:**
-
-[Ver presentación dinámica del parcial](https://giselle1990.github.io/2doParcial_Mineria/entrega_cloud_provider_analytics.html)
+https://2doparcialmineria.netlify.app/ 
 
 La web incluye:
 
