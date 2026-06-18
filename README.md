@@ -34,7 +34,6 @@ La web incluye:
 | Archivo | Descripción |
 |---|---|
 | `2doParcial.ipynb` | Notebook principal desarrollado en Google Colab. Contiene el código completo del MVP técnico. |
-| `entrega_cloud_provider_analytics.html` | Página web dinámica para visualizar y recorrer el parcial de forma interactiva. |
 | `README.md` | Descripción del proyecto, instrucciones de uso y enlaces principales. |
 
 ---
